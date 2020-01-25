@@ -1,3 +1,4 @@
+//https://snapcraft.io/docs/getting-started
 sudo apt install snapd
 
 //under search for apps under
